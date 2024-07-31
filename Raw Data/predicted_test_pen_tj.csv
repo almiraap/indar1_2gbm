@@ -1,0 +1,7 @@
+"","bulan","tahun","jumlah_penumpang","date.x","jumlah_armada_tj","jumlah_penumpang_lrt","jumlah_perjalanan_lrt","jumlah_penumpang_mrt","jumlah_perjalanan_mrt","date.y","predicted_jumlah_penumpang_tj"
+"1",1,2024,0,NA,4395,93631,6324,3133700,8241,"2024-01-01",NA
+"2",2,2024,0,NA,4456,89934,5916,2595293,7539,"2024-02-01",NA
+"3",3,2024,0,NA,4451,92004,6321,2876356,7977,"2024-03-01",NA
+"4",4,2024,0,NA,4457,84571,6120,2607904,7626,"2024-04-01",NA
+"5",5,2024,0,NA,4409,96550,6324,3175772,7882,"2024-05-01",NA
+"6",6,2024,0,NA,0,0,0,0,0,"0",NA
